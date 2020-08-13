@@ -35,7 +35,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <Message message={message} />
+        <Message title="API-Result" message={message} />
         <input
           type='text'
           placeholder='search monsters'
