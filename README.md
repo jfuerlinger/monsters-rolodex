@@ -1,6 +1,13 @@
-# ReactBasic
+# ReactBasic - Monsters Holodex
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+And is [hosted in Azure](https://portal.azure.com/#@joseffuerlingergmail.onmicrosoft.com/resource/subscriptions/01964263-bc84-4b67-b94a-2a65733186ef/resourceGroups/monsters-rolodex-rg/providers/Microsoft.Web/staticSites/monsters-rolodex/staticsite) as a Static Web App ([Documentation](https://docs.microsoft.com/en-us/azure/static-web-apps/))
+
+## Urls
+
+* https://black-dune-009b3be03.azurestaticapps.net
+* https://www.beratung-trifft-herz.at
 
 ## Available Scripts
 
