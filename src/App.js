@@ -22,7 +22,7 @@ class App extends Component {
       .then(response => response.json())
       .then(users => this.setState({ monsters: users }));
 
-    fetch(`/api/message`)
+    fetch(`${process.env.REACT_APP_API_URL }/message`)
       .then(response => response.json())
       .then(content => this.setState({ message: content.text }) )
   }
